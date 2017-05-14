@@ -8,6 +8,7 @@ body{
 }
 
 h1{
+    text-align: center;
     font: 400 80px/0.8 'Great Vibes', Georgia, Times, serif;
 }
 
@@ -89,4 +90,14 @@ a:hover{
 ul li{
     display: inline-block;
     padding: 2px;
+}
+
+#zen-summary p{
+    font-family: 'Indie Flower', Georgia, Times, cursive;
+    font-weight: bold;
+}
+
+#zen-preamble{
+    color: #31a22f;
+    font-weight: bold;
 }
